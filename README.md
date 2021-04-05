@@ -24,18 +24,18 @@
 - Udong Project - Application Development project based on Start-up Simulation. | H2K Soft CEO & Project Manager & Director of CoreSW Division. (2021. 02 - )
 <br>Organized by Byungwook, Hyeon. 
 
+(3) Career.
+- Assistant Teacher | Coding Camp for Lower Grade Students - Ansan-si, Gyeonggi-do, Korea. (2019. 05 - 2019. 08)
+- Mathmatics Teacher | NKInfinite Academy - Ansan-si, Gyeonggi-do, Korea. (2019. 11 - 2020. 06)
+- Mathmatics Teacher | Choikang Academy, Ansan Education Co., Ltd. - Ansan-si, Gyeonggi-do, Korea. (2020. 08 - 2020. 12)
+- Manager(System Engineer) | Gabia Co., Ltd, 2020 Winter Intership, Security IDC Operating Division, Managed Service Unit - Seoul, Korea. (2021. 01. 18 - 2021. 03. 31)
+- Club Member - Hanyang University ERICA Campus, Algorithm Analysis Society '0&1'. (2019. 03 - 2019. 08)
+- Club Member - Hanyang University ERICA Campus, Tennis Club 'HY-TeC'. (2019. 09 - 2019. 12)
+-
 
+(3) Group.
+- Project Planning Manger - Cheongju University, Environment Club 'Green Earth'. (2014. 03 - 2014. 07)
+- Club Member - Hanyang University ERICA Campus, Algorithm Analysis Society '0&1'. (2019. 03 - 2019. 08)
+- Club Member - Hanyang University ERICA Campus, Tennis Club 'HY-TeC'. (2019. 09 - 2019. 12)
+-
 
-※ Udong Project is based on ‘Start-up Simulation’ for improving project management skills with software development abilities and organized by Byungwook Hyeon.
-
-
-Stock price regression analysis
-Daeyang Enbio Co., Ltd.
-(3) Other Experience.
-- MacOS, CentOS, AWS
-- Android Studio, Sublime Text3
-- Java, Python, MySQL
-- Etc.
-- Hanynag University, ERICA Campus, Korea.
-College of Software, Software Division - Major of Software
-College of Economics and Finance
