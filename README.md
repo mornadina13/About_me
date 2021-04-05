@@ -25,7 +25,7 @@
 - Stock price regression analysis | Single Project. (2020. 09 - 2020. 12)
 <br>※Organized by Prof. Jeonghwan, Lee. (HYU Seoul Campus, College of Economics and Finance)
 - Resilience for IDC | Single Project. (2021. 01. 18 - 2021. 03. 31)
-<br>※Organized by Executive Director Ryan. (Gabia Co., Ltd. Security IDC Operating Division)
+<br>※Organized by Executive Director Ryan. (Gabia Co., Ltd., Security IDC Operating Division)
 - Udong Project - Application Development project based on Start-up Simulation. | H2K Soft CEO & Project Manager & Director of CoreSW Division. (2021. 02 - )
 <br>※Organized by Byungwook, Hyeon. 
 
