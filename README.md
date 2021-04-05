@@ -54,5 +54,7 @@
 (4) Awards and Honors.
 - Recognition Awards | Republic of Korea Army, 705 Special Assault Commando. (2017. 10. 25)
 - 2019 HYU ERICA IeT Speech Competition of 4th Industrial Revolution | Bronze Prize. / IECC@HYU ERICA. (2019. 10. 30)
+<br> 
+<img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
 
 
