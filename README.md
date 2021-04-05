@@ -46,6 +46,11 @@
 
 <br>
 
+(4) Volunteer.
+- Mugunghwa Alliance | Ansan-si, Gyeonggi-do, Korea. (2019.09 - 2019. 12 / 30 hours)
+
+<br>
+
 (4) Awards and Honors.
 - Recognition Awards | Republic of Korea Army, 705 Special Assault Commando. (2017. 10. 25)
 - 2019 HYU ERICA IeT Speech Competition of 4th Industrial Revolution | Bronze Prize. / IECC@HYU ERICA. (2019. 10. 30)
