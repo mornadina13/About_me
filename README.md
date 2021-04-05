@@ -6,12 +6,14 @@
 - mornadina13@gmail.com
 - https://www.linkedin.com/in/byungwook-hyeon-080307199/
 
+<br>
 
 ## 2. History.
 (1) Education
 - B.S., Computer Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02 - Transferred to HYU ERICA Campus, Korea.
 - B.S., Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
 
+<br>
 
 (2) Experience.
 - Daeyang Enbio co., Ltd. Consulting | Consulting Manager. (2019. 03 - 2019. 06)
@@ -27,6 +29,7 @@
 - Udong Project - Application Development project based on Start-up Simulation. | H2K Soft CEO & Project Manager & Director of CoreSW Division. (2021. 02 - )
 <br>Organized by Byungwook, Hyeon. 
 
+<br>
 
 (3) Career.
 - Assistant Teacher | Coding Camp for Lower Grade Students / Ansan-si, Gyeonggi-do, Korea. (2019. 05 - 2019. 08)
@@ -34,13 +37,16 @@
 - Mathmatics Teacher | Choikang Academy, Ansan Education Co., Ltd. / Ansan-si, Gyeonggi-do, Korea. (2020. 08 - 2020. 12)
 - Manager(System Engineer) | Gabia Co., Ltd, 2020 Winter Intership, Security IDC Operating Division, Managed Service Unit / Seoul, Korea. (2021. 01. 18 - 2021. 03. 31)
 
+<br>
 
 (3) Group.
 - Project Planning Manger - Cheongju University, Environment Club 'Green Earth'. (2014. 03 - 2014. 07)
 - Club Member - Hanyang University ERICA Campus, Algorithm Analysis Society '0&1'. (2019. 03 - 2019. 08)
 - Club Member - Hanyang University ERICA Campus, Tennis Club 'HY-TeC'. (2019. 09 - 2019. 12)
 
-(3) Awards and Honors.
+<br>
+
+(4) Awards and Honors.
 - Recognition Awards | Republic of Korea Army, 705 Special Assault Commando. (2017. 10. 25)
 - 2019 HYU ERICA IeT Speech Competition of 4th Industrial Revolution | Bronze Prize. / IECC@HYU ERICA. (2019. 10. 30)
 
