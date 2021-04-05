@@ -9,8 +9,8 @@
 
 ## 2. History.
 (1) Education
-- BS Computer Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02 - Transferred to HYU ERICA Campus, Korea.
-- BS Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
+- B.S., Computer Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02 - Transferred to HYU ERICA Campus, Korea.
+- B.S., Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
 
 (2) Team Info.
 - Project Manager : Byungwook Hyeon.
