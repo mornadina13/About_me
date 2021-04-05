@@ -12,13 +12,15 @@
 - B.S., Computer Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02 - Transferred to HYU ERICA Campus, Korea.
 - B.S., Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
 
-(2) Team Info.
-- Project Manager : Byungwook Hyeon.
-- Director of CoreSW Division : Byungwook Hyeon.
-- Director of Cloud Engineering Division : Dongwan Kang.
-- Director of Managed Service Division : Kyeongwon Kang.
-
-(3) Environment&Tool.
+(2) Experience.
+- Daeyang Enbio co., Ltd. Consulting | Consulting Manager. (2019. 03 - 2019. 06)
+Organized by Professor of HYU&CEO of Learning Design Group Colin, Han.
+- Cloud Native Computing Platform Development with KTds - Division of Architecture CoE. | Project Manager. (2019. 09 - 2020. 06)
+- Hotem Information System(PMS) Development - Agora | Project Manager. (2020. 09 - 2020. 12)
+- Stock price regression analysis | Organized by 
+Stock price regression analysis
+Daeyang Enbio Co., Ltd.
+(3) Other Experience.
 - MacOS, CentOS, AWS
 - Android Studio, Sublime Text3
 - Java, Python, MySQL
