@@ -42,7 +42,7 @@
 
 (3) Certificates.
 - AZ-900 | Microsoft Certified: Azure Fundamentals. (2020. 08. 13)
-https://www.credly.com/badges/fe5e8087-99c0-4f12-b040-f894b2f3602f?source=linked_in_profile
+<br>https://www.credly.com/badges/fe5e8087-99c0-4f12-b040-f894b2f3602f?source=linked_in_profile
 - CKA : Linux Foundations: Certified Kubernetes Administrations
 
 <br>
