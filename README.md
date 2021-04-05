@@ -14,7 +14,7 @@
 
 (2) Experience.
 - Daeyang Enbio co., Ltd. Consulting | Consulting Manager. (2019. 03 - 2019. 06)
-Organized by Professor of HYU&CEO of Learning Design Group Colin, Han.
+<br>Organized by Professor of HYU&CEO of Learning Design Group Colin, Han.
 - Cloud Native Computing Platform Development with KTds - Division of Architecture CoE. | Project Manager. (2019. 09 - 2020. 06)
 - Hotem Information System(PMS) Development - Agora | Project Manager. (2020. 09 - 2020. 12)
 - Stock price regression analysis | Organized by 
