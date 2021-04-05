@@ -4,16 +4,13 @@
 
 - mornadina13@naver.com
 - mornadina13@gmail.com
+- https://www.linkedin.com/in/byungwook-hyeon-080307199/
 
-(3) Environment&Tool.
-- MacOS, CentOS, AWS
-- Android Studio, Sublime Text3
-- Java, Python, MySQL
-- Etc.
 
-## 1. Project Overview.
-(1) Goal.
-- Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
+## 2. History.
+(1) Education
+- BS Computer Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02 - Transferred to HYU ERICA Campus, Korea.
+- BS Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
 
 (2) Team Info.
 - Project Manager : Byungwook Hyeon.
@@ -26,3 +23,5 @@
 - Android Studio, Sublime Text3
 - Java, Python, MySQL
 - Etc.
+- Hanynag University, ERICA Campus, Korea.
+College of Software, Software Division - Major of Software
