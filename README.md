@@ -19,7 +19,16 @@
 <br>Organized by KTds&HYU ERICA Software Division.
 - Hotel Information System(PMS) Development - Agora | Project Manager. (2020. 09 - 2020. 12)
 <br>Organized by Prof. Dongho, Lee. (HYU ERICA Campus, College of Software, Software Division)
-- Stock price regression analysis | Organized by 
+- Stock price regression analysis | Single Project. (2020. 09 - 2020. 12)
+<br>Organized by Prof. Jeonghwan, Lee. (HYU Seoul Campus, College of Economics and Finance)
+- Udong Project - Application Development project based on Start-up Simulation. | H2K Soft CEO & Project Manager & Director of CoreSW Division. (2021. 02 - )
+<br>Organized by Byungwook, Hyeon. 
+
+
+
+※ Udong Project is based on ‘Start-up Simulation’ for improving project management skills with software development abilities and organized by Byungwook Hyeon.
+
+
 Stock price regression analysis
 Daeyang Enbio Co., Ltd.
 (3) Other Experience.
@@ -29,3 +38,4 @@ Daeyang Enbio Co., Ltd.
 - Etc.
 - Hanynag University, ERICA Campus, Korea.
 College of Software, Software Division - Major of Software
+College of Economics and Finance
