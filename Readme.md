@@ -47,12 +47,19 @@
 
 <br>
 
-(4) Volunteer.
+(4) Certificates.
+- AZ-900 | Microsoft Certified: Azure Fundamentals. (2020. 08. 13)
+https://www.credly.com/badges/fe5e8087-99c0-4f12-b040-f894b2f3602f?source=linked_in_profile
+- CKA : Linux Foundations: Certified Kubernetes Administrations
+
+<br>
+
+(5) Volunteer.
 - Mugunghwa Alliance | Ansan-si, Gyeonggi-do, Korea. (2019.09 - 2019. 12 / 30 hours)
 
 <br>
 
-(4) Awards and Honors.
+(6) Awards and Honors.
 - Recognition Awards | Republic of Korea Army, 705 Special Assault Commando. (2017. 10. 25)
 - 2019 HYU ERICA IeT Speech Competition of 4th Industrial Revolution | Bronze Prize. / IECC@HYU ERICA. (2019. 10. 30)
 <br> 
