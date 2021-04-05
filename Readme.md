@@ -40,17 +40,17 @@
 
 <br>
 
-(3) Group.
-- Project Planning Manger - Cheongju University, Environment Club 'Green Earth'. (2014. 03 - 2014. 07)
-- Club Member - Hanyang University ERICA Campus, Algorithm Analysis Society '0&1'. (2019. 03 - 2019. 08)
-- Club Member - Hanyang University ERICA Campus, Tennis Club 'HY-TeC'. (2019. 09 - 2019. 12)
-
-<br>
-
-(4) Certificates.
+(3) Certificates.
 - AZ-900 | Microsoft Certified: Azure Fundamentals. (2020. 08. 13)
 https://www.credly.com/badges/fe5e8087-99c0-4f12-b040-f894b2f3602f?source=linked_in_profile
 - CKA : Linux Foundations: Certified Kubernetes Administrations
+
+<br>
+
+(4) Group.
+- Project Planning Manger - Cheongju University, Environment Club 'Green Earth'. (2014. 03 - 2014. 07)
+- Club Member - Hanyang University ERICA Campus, Algorithm Analysis Society '0&1'. (2019. 03 - 2019. 08)
+- Club Member - Hanyang University ERICA Campus, Tennis Club 'HY-TeC'. (2019. 09 - 2019. 12)
 
 <br>
 
