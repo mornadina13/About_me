@@ -32,6 +32,7 @@
 <br>
 
 (3) Career.
+- Sergeant | Repulib of Korea Army, 705 Special Assault Commando. (2016. 01 - 2017. 10)
 - Assistant Teacher | Coding Camp for Lower Grade Students / Ansan-si, Gyeonggi-do, Korea. (2019. 05 - 2019. 08)
 - Mathmatics Teacher | NKInfinite Academy / Ansan-si, Gyeonggi-do, Korea. (2019. 11 - 2020. 06)
 - Mathmatics Teacher | Choikang Academy, Ansan Education Co., Ltd. / Ansan-si, Gyeonggi-do, Korea. (2020. 08 - 2020. 12)
