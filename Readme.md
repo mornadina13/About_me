@@ -1,7 +1,6 @@
-# Profile
+# Byungwook Hyeon(현병욱).
 
 ## 1. Contact.
-
 - mornadina13@naver.com
 - mornadina13@gmail.com
 - https://www.linkedin.com/in/byungwook-hyeon-080307199/
