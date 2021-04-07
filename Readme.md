@@ -47,7 +47,7 @@
 
 <br>
 
-(4) Groups.
+(4) Group.
 - Green Earth | Cheongju University, Environment Club | Project Planning Manger (2014. 03 - 2014. 07)
 - 0&1 | Hanyang University ERICA Campus, Algorithm Analysis Society | Society Member (2019. 03 - 2019. 08)
 - HY-TeC | Hanyang University ERICA Campus, Tennis Club | Club Member (2019. 09 - 2019. 12)
