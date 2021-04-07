@@ -1,4 +1,4 @@
-# Byungwook Hyeon(현병욱).
+# Byungwook Hyeon
 
 ## 1. Contact.
 - mornadina13@naver.com
