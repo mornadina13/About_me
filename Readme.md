@@ -33,11 +33,11 @@
 <br>
 
 (3) Career.
-- Sergeant | Republic of Korea Army, 705 Special Assault Commando. (2016. 01. 26 - 2017. 10. 25)
-- Assistant Teacher | Coding Camp for Lower Grade Students / Ansan-si, Gyeonggi-do, Korea. (2019. 05 - 2019. 08)
-- Mathmatics Teacher | NKInfinite Academy / Ansan-si, Gyeonggi-do, Korea. (2019. 11 - 2020. 06)
-- Mathmatics Teacher | Choikang Academy, Ansan Education Co., Ltd. / Ansan-si, Gyeonggi-do, Korea. (2020. 08 - 2020. 12)
-- Manager(System Engineer) | Gabia Co., Ltd, 2020 Winter Intership, Security IDC Operating Division, Managed Service Unit / Seoul, Korea. (2021. 01. 18 - 2021. 03. 31)
+- Republic of Korea Army, 705 Special Assault Commando. | Sergeant (2016. 01. 26 - 2017. 10. 25)
+- Coding Camp for Lower Grade Students / Ansan-si, Gyeonggi-do, Korea. | Assistant Teacher (2019. 05 - 2019. 08)
+- NKInfinite Academy / Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2019. 11 - 2020. 06)
+- Choikang Academy, Ansan Education Co., Ltd. / Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2020. 08 - 2020. 12)
+- Gabia Co., Ltd, 2020 Winter Intership, Security IDC Operating Division, Managed Service Unit / Seoul, Korea. | Manager(System Engineer) (2021. 01. 18 - 2021. 03. 31)
 
 <br>
 
