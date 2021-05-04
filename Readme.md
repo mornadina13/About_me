@@ -65,7 +65,7 @@
 <br> 
 <p align="left"><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/705SAC.png" witdh="800" height="500" /><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/IeT.png" witdh="800" height="500" /></p>
 <br>
-<p align="left"><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/Gabia.png" witdh="800" height="500" /></p>
+<p align="left"><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/Gabia.png" witdh="800" height="500" /><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/blockchain_sogang.png" witdh="800" height="500" /></p></p>
 
 
 
