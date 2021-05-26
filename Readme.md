@@ -70,7 +70,7 @@
 <br>
 <p align="left"><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/Gabia.png" witdh="800" height="500" /><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/blockchain_sogang.png" witdh="800" height="500" /></p>
 <br>
-<p align="left"><img src="https://raw.githubusercontent.com/mornadina13/About_me/main/Certificates/Security%20Summit%202021_LG%20CNS.png"</p>
+<p align="left"><img src="https://raw.githubusercontent.com/mornadina13/About_me/main/Certificates/Security%20Summit%202021_LG%20CNS.png" witdh="800" height="500"</p>
 
 
 
