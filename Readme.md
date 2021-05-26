@@ -46,6 +46,7 @@
 - CKA | Linux Foundations Certified: Certified Kubernetes Administrations.
 - Certificate of Completion | 2020 Gabia Winter Intership - Manager(System Engineer) | Gabia Co., Ltd. (2021. 03. 31)
 - Certificate of Completion | 1st Blockchain Specialist Training Course | Sogang University - Intelligent Blockchain Research Center. (2021. 04. 27)
+- Confirmation of Attendance | LG CNS Security Summit 2021 | LG CNS Co., Ltd. (2021. 05. 26)
 
 <br>
 
