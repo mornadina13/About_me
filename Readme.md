@@ -32,7 +32,7 @@
 <br>
 
 (3) Career.
-- Republic of Korea Army, 705 Special Assault Commando. | Korea. | Sergeant (2016. 01. 26 - 2017. 10. 25)
+- Republic of Korea Army, 705th Special Assault Regiment. | Korea. | Sergeant (2016. 01. 26 - 2017. 10. 25)
 - Coding Camp for Lower Grade Students | Ansan-si, Gyeonggi-do, Korea. | Assistant Teacher (2019. 05 - 2019. 08)
 - NKInfinite Academy | Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2019. 11 - 2020. 06)
 - Ansan Education Co., Ltd.(Choikang Academy) | Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2020. 08 - 2020. 12)
