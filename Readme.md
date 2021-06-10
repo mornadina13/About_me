@@ -45,8 +45,9 @@
 <br>https://www.credly.com/badges/fe5e8087-99c0-4f12-b040-f894b2f3602f?source=linked_in_profile
 - CKA | Linux Foundations Certified: Certified Kubernetes Administrations.
 - Certificate of Completion | 2020 Gabia Winter Intership - Manager(System Engineer) | Gabia Co., Ltd. (2021. 03. 31)
-- Certificate of Completion | 1st Blockchain Specialist Training Course | Sogang University - Intelligent Blockchain Research Center. (2021. 04. 27)
+- Certificate of Completion | 1st Blockchain Specialist Training Coursese | Sogang University - Intelligent Blockchain Research Center. (2021. 04. 27)
 - Confirmation of Attendance | LG CNS Security Summit 2021 | LG CNS Co., Ltd. (2021. 05. 26)
+- Certificate of Completion | 2nd Blockchain Specialist Training Coureses | Sogang University - Intelligent Blockchain Research Center. (2021. 06. 08)
 
 <br>
 
