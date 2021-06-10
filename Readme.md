@@ -19,7 +19,7 @@
 - Daeyang Enbio co., Ltd. Consulting | Consulting Manager. (2019. 03 - 2019. 06)
 <br>※ Organized by Prof. Colin, Han. (HYU Seoul Campus&CEO of Learning Design Group)
 - Cloud Native Computing Platform Development with KTds - Division of Architecture CoE. | Project Manager. (2019. 09 - 2020. 06)
-<br>※ Organized by KTds&HYU ERICA Software Division.
+<br>※ Organized by KTds & HYU ERICA Software Division.
 - Hotel Information System(PMS) Development - Agora | Project Manager. (2020. 09 - 2020. 12)
 <br>※ Organized by Prof. Dongho, Lee. (HYU ERICA Campus, College of Software, Software Division)
 - Stock price regression analysis | Single Project. (2020. 09 - 2020. 12)
