@@ -73,7 +73,7 @@
 <br>
 <p align="left"><img src="https://raw.githubusercontent.com/mornadina13/About_me/main/Certificates/Security%20Summit%202021_LG%20CNS.png" witdh="800" height="500"</p>
 <br>
-<p align="left"><img src="https://raw.githubusercontent.com/mornadina13/About_me/main/Certificates/2nd_blockchain_sogang.png" witdh="800" height="500"</p> 
+<p align="left"><img src="https://github.com/mornadina13/About_me/blob/main/Certificates/2nd_blockchain_sogang.pdf" witdh="800" height="500"</p> 
 
 
 
