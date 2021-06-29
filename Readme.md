@@ -37,6 +37,7 @@
 - NKInfinite Academy | Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2019. 11 - 2020. 06)
 - Ansan Education Co., Ltd.(Choikang Academy) | Ansan-si, Gyeonggi-do, Korea. | Mathmatics Teacher (2020. 08 - 2020. 12)
 - Gabia Co., Ltd., 2020 Winter Intership, Security IDC Operating Division, Managed Service Unit | Seoul, Korea. | Manager(System Engineer) (2021. 01. 18 - 2021. 03. 31)
+- SSAFY, Samsung Software Academy For Youth - SAMSUNG Electronics | Daejeon, Samsung Fire & Marine Insurance Yuseong Campus | Trainee (2021. 07 - 2022. 06)
 
 <br>
 
