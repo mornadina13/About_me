@@ -9,7 +9,7 @@
 
 ## 2. History.
 (1) Education.
-- B.S., Dempartment of Computer Science and Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02.
+- B.S., Department of Computer Science and Engineering | Cheongju University, Korea, 2014. 03 - 2019. 02.
 <br>※ Transferred to HYU ERICA Campus, Korea.
 - B.S., Software Division - Major of Software | Hanyang University ERICA Campus, Korea, 2019. 03 - 2021. 08.
 
